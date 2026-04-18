@@ -1,0 +1,9 @@
+com\biblioteca\model\Libro.class
+com\biblioteca\dto\LibroRequestDTO.class
+com\biblioteca\mapper\LibroMapper.class
+com\biblioteca\repository\LibroRepository.class
+com\biblioteca\dto\LibroResponseDTO.class
+com\biblioteca\exception\GlobalExceptionHandler.class
+com\biblioteca\service\LibroService.class
+com\biblioteca\BibliotecaApplication.class
+com\biblioteca\controller\LibroController.class
