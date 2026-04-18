@@ -114,6 +114,4 @@ src/
 
 [esteban mauricio calderon bayona 02220132006]
 
-MIT
-=======
->>>>>>> 9018277 (Actualizar README con capturas y detalles finales)
+
