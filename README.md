@@ -72,21 +72,6 @@ src/
    - Username: `sa`
    - Password: (vacío)
 
-## Capturas de Pantalla
-
-### Swagger UI - Lista de Endpoints
-[Agregar captura de pantalla aquí]
-
-### Swagger UI - Crear Libro
-[Agregar captura de pantalla aquí]
-
-### Swagger UI - Respuesta de Libro Creado
-[Agregar captura de pantalla aquí]
-
-### Consola H2 - Tabla de Libros
-[Agregar captura de pantalla aquí]
-
-
 
 ## Autor
 
