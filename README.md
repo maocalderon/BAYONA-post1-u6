@@ -61,7 +61,7 @@ src/
 
 ## Cómo Ejecutar
 
-1. Asegúrate de tener Java 17 y Maven instalados
+1. Asegúrate de tener Java 21 y Maven instalados
 2. Ejecuta el proyecto:
    ```bash
    mvn spring-boot:run
@@ -72,11 +72,48 @@ src/
    - Username: `sa`
    - Password: (vacío)
 
+=======
+## Capturas de Pantalla
+
+### Swagger UI - Lista de Endpoints
+![alt text](image.png)
+
+### Swagger UI - Crear Libro
+![alt text](image-1.png)
+
+### Swagger UI - Respuesta de Libro Creado
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+
+>>>>>>> 9018277 (Actualizar README con capturas y detalles finales)
 
 ## Autor
 
-[Tu Nombre Completo]
+[esteban mauricio calderon bayona 02220132006]
 
 ## Licencia
+## Capturas de Pantalla
+
+### Swagger UI - Lista de Endpoints
+![alt text](image.png)
+
+### Swagger UI - Crear Libro
+![alt text](image-1.png)
+
+### Swagger UI - Respuesta de Libro Creado
+
+![alt text](image-2.png)
+
+### Consola H2 - Tabla de Libros
+![alt text](image-3.png)
+
+## Autor
+
+[esteban mauricio calderon bayona 02220132006]
 
 MIT
+=======
+>>>>>>> 9018277 (Actualizar README con capturas y detalles finales)
