@@ -86,15 +86,7 @@ src/
 ### Consola H2 - Tabla de Libros
 [Agregar captura de pantalla aquí]
 
-## Rúbrica de Evaluación
 
-| Criterio | Descripción | Peso |
-|----------|-------------|------|
-| Implementación JPA | Uso correcto de anotaciones JPA, repositorio y configuración de H2 | 40% |
-| Arquitectura DTO/Mapper | Separación clara entre entidad y DTOs | 20% |
-| Manejo de Excepciones | Controlador global con códigos HTTP correctos (400, 404) | 15% |
-| Funcionalidad y Swagger | API funcional con documentación | 15% |
-| Entregables (GitHub) | Repositorio público con README y capturas | 10% |
 
 ## Autor
 
